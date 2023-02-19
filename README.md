@@ -2,7 +2,7 @@
 
 I’m currently studying for a Master's in Data Science for Public Policy at the Hertie School in Berlin, Germany.
 
-I’m interested in the intersection between social media, fintech, and consumer credit debt.
+I’m interested in the intersection between social media, Fintech, and consumer credit debt.
 
 
 <!--
