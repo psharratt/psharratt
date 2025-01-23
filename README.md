@@ -1,8 +1,8 @@
 ### Hi, I'm Paul. 
 
-I’m currently studying for a Master's in Data Science for Public Policy at the Hertie School in Berlin, Germany.
+I work on policy and research at the Sovereign Tech Agency. 
 
-I’m interested in the intersection between social media, Fintech, and consumer credit debt.
+
 
 
 <!--
